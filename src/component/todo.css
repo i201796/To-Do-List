@@ -95,7 +95,7 @@ input:focus {
 }
 
 .fa:hover {
-  color: white;
+  color: rgb(47, 214, 122);
 }
 
 .fa-plus:before {
